@@ -164,11 +164,10 @@ const Banner = (props: HomeProps) => {
               WELCOME TO THE NEEDZ BEEZ!
             </div>
             <p className='py-12 text-primary text-lg'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo error
-              a esse quas dolores vel. Non tenetur eius atque aspernatur!
+            Our founders, out of a love of honey and nature, created Needz Beez. At Needz Beez, we believe in NFTs as an expressive way to provide charitable contributions through utility benefits for the holders. Furthermore, our digital art pieces can develop support networks for charitable contributions and other conservatory efforts.
             </p>
             <div className='bg-gradient-to-r from-gradientright to-gradientleft text-center py-4 px-8 max-w-[12rem] rounded-lg text-xl font-medium text-white'>
-              <a href='http://' target='_blank' rel='noopener noreferrer'>
+              <a href='http://discord.gg/h6Ha45SG' target='_blank' rel='noopener noreferrer'>
                 Join Us
               </a>
             </div>

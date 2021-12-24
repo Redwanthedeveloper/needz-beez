@@ -9,7 +9,11 @@ const Footer = () => {
             <div className='footer__left'>
               <ul className='flex gap-16 items-center'>
                 <li>
-                  <a href='http://' target='_blank' rel='noopener noreferrer'>
+                  <a
+                    href='http://discord.gg/h6Ha45SG'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
                     <svg
                       fill='currentColor'
                       xmlns='http://www.w3.org/2000/svg'
@@ -24,7 +28,11 @@ const Footer = () => {
                 </li>
 
                 <li>
-                  <a href='http://' target='_blank' rel='noopener noreferrer'>
+                  <a
+                    href='https://www.instagram.com/needzbeez/'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
                     <svg
                       fill='currentColor'
                       xmlns='http://www.w3.org/2000/svg'
@@ -40,7 +48,11 @@ const Footer = () => {
                 </li>
 
                 <li>
-                  <a href='http://' target='_blank' rel='noopener noreferrer'>
+                  <a
+                    href='https://twitter.com/NeedzBeezNft'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
                     <svg
                       fill='currentColor'
                       xmlns='http://www.w3.org/2000/svg'
