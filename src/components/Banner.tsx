@@ -160,7 +160,7 @@ const Banner = (props: HomeProps) => {
       <div className='container mx-auto h-full px-4 lg:px-0'>
         <div className='flex-col flex lg:flex-row h-full gap-20 justify-between items-center'>
           <div className='max-w-2xl flex flex-col justify-center h-full'>
-            <div className='text-3xl lg:text-6xl font-bold text-transparent bg-gradient-to-r from-gradientright to-gradientleft bg-clip-text lg:leading-[5rem] lg:pt-24 pt-24'>
+            <div className='text-3xl lg:text-6xl font-bold text-transparent bg-gradient-to-r from-gradientleft to-gradientright bg-clip-text lg:leading-[5rem] lg:pt-24 pt-24'>
               WELCOME TO THE NEEDZ BEEZ!
             </div>
             <p className='py-12 text-primary text-lg'>

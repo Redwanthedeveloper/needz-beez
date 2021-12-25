@@ -21,10 +21,3 @@ img {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
-.roadmap {
-  background: url('../images/roadmap.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}

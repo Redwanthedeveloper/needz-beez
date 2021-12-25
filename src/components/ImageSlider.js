@@ -40,7 +40,7 @@ const ImageSlider = () => {
   };
   return (
     <>
-      <div className='mt-24 pt-12'>
+      <div className='pt-36 bg-[#161b2c]'>
         <div className='container mx-auto px-4 lg:px-0'>
           <h3 className=' text-4xl font-bold text-white'>Our Items</h3>
           <p className='py-12 text-primary text-lg w-full lg:w-2/4'>
