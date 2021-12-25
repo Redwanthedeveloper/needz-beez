@@ -823,6 +823,19 @@ img {
   max-width: 100%;
 }
 
+.banner {
+  background: url('../images/banner.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.roadmap {
+  background: url('../images/roadmap.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 .hover\:text-gradientright:hover {
   --tw-text-opacity: 1;
   color: rgb(254 215 189 / var(--tw-text-opacity));

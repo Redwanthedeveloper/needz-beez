@@ -3,7 +3,7 @@ import React from 'react';
 const Roadmap = () => {
   return (
     <>
-      <div className='roadmap mt-24 pt-12' id='roadmap'>
+      <div className='roadmap mt-24 py-12' id='roadmap'>
         <div className='container mx-auto px-4 lg:px-0'>
           <div className='roadmap__wrapper grid  lg:grid-cols-3 gap-10 lg:gap-20'>
             <div className='roadmap__brief md:col-span-2 lg:col-span-2'>

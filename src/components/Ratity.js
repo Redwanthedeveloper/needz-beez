@@ -1,7 +1,7 @@
 import React from 'react';
-import rarityImage1 from '../assets/images/12.png';
-import rarityImage2 from '../assets/images/13.png';
-import rarityImage3 from '../assets/images/14.png';
+import rarityImage1 from '../assets/images/about/1.gif';
+import rarityImage2 from '../assets/images/about/2.gif';
+import rarityImage3 from '../assets/images/about/3.gif';
 
 const Ratity = () => {
   return (
